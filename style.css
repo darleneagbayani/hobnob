@@ -1,0 +1,44 @@
+.ui.borderless.inverted.menu {
+  padding-top: 20px;
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+  font-: white;
+}
+
+a.download.item {
+  border: 4px solid white;
+}
+
+body {
+  background-image: url("http://courses.ics.hawaii.edu/ics314f17/morea/ui-frameworks/hobnob-background.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.text {
+  padding-top: 200px;
+}
+
+.column {
+  color: black;
+}
+.a.item {
+  color: white;
+}
+
+.a.download.item {
+  border: 4px solid white;
+}
+
+.ui.list {
+  color: #55EFCB;
+}
+
+.footer-background {
+  background-color: white;
+  margin-top: 400px;
+  padding-top: 30px;
+  padding-bottom: 85px;
+  text-transform: uppercase;
+}
